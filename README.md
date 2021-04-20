@@ -7,5 +7,5 @@ vk-hider создан для того чтобы скрыть ваш "Онлай
 1) открыть vk-hider.py через блокнот или другой текстовый редактор 
 2) вставить в поле token свой токен 
 (https://oauth.vk.com/authorize?client_id=6146827&redirect_uri=https://oauth.vk.com/blank.html&display=page&response_type=token&revoke=1) <== Смотреть свой токен тут, так-же предоставив данные о себе VK Me
-3) Запуск скрипта: python vk-hider.py
+3) Запуск скрипта: # python vk-hider.py
 
